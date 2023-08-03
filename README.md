@@ -1,5 +1,5 @@
 # **`Carbon Footprints Project For University Of Starling, UK`**
-Snapshots:
+
 ## **`Snapshots`**
 <!DOCTYPE html>
 <html>
@@ -10,7 +10,9 @@ Snapshots:
     <img src="https://github.com/wajidturi50/HR-Dashboard-End-to-End-Project/blob/main/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png" alt="HR Dashboard">
 </body>
 </head>
+
 ### **`Note`**
+
 ## **`Project Description`**
 I have created a data science project for University of Starling UK, with the requirement to determine the amount of Carbon emitted, the Carbon usage, and the Carbon inventory based on their data from 2016 to 2022. Essentially, I performed forecasts (using historical data reports versus future predictions) for this purpose.
 
